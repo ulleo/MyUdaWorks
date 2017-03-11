@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">我的应用作品集</string>
+    <string name="tv_main_title">纳米学位应用</string>
+    <string name="btn_movie">热门电影</string>
+    <string name="btn_stock">股票雄鹰</string>
+    <string name="btn_reader">XYZ阅读器</string>
+    <string name="btn_news">最新闻</string>
+    <string name="btn_finwork">毕业设计</string>
+    <string-array name="btns_array">
+        <item>热门电影</item>
+        <item>股票雄鹰</item>
+        <item>XYZ阅读器</item>
+        <item>最新闻</item>
+        <item>毕业设计</item>
+    </string-array>
+</resources>
